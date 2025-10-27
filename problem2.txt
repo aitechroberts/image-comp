@@ -1,0 +1,4 @@
+uv run python problem2_test.py \
+  temp_tri.raw \
+  2BG9_pot97129.rawiv \
+  new_tri.rawc

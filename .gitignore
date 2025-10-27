@@ -26,4 +26,11 @@ build/
 # Project specific
 *.rawc
 *_subunit_*.rawiv
-
+*.raw
+*.rawiv
+VolumeCache/
+2BG9_acc97129.rawiv
+2BG9_pot97129.rawiv
+temp_tri.raw
+new_tri.rawc
+__MACOSX/

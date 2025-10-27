@@ -1,0 +1,12 @@
+File: mri_dcm.rawiv_subunit_00.rawiv
+Dimensions: 256 x 256 x 15
+Voxel spacing (mm): 0.859367 x 0.859375 x 2.000100  -> voxel volume 1.477111 mm^3
+Data type: >f4
+Non-zero voxels: 42,898
+Volume (all non-zero): 63365.10 mm^3 (63.37 cm^3)
+
+zip Project1_Roberts.zip \
+mri_dcm.rawiv_subunit_00.rawiv \
+p1_nonzero.py \
+p2_potential_mapper.py \
+temp_tri.rawc
