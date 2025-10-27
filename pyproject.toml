@@ -1,0 +1,12 @@
+[project]
+name = "project1-image-comp"
+version = "0.1.0"
+description = "CMU 24658 Project 1 - Image Compression"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.0.0",
+    "jupyter>=1.0.0",
+    "ipykernel>=6.0.0",
+]
+
+
